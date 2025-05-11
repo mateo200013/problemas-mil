@@ -1,0 +1,67 @@
+/* Nav, Hero y Footer oscuro */
+.bg-dark {
+    background-color: #343a40 !important;
+  }
+  .text-white {
+    color: #fff !important;
+  }
+  
+  /* Tarjetas */
+  .card-img-top {
+    height: 250px;
+    object-fit: cover;
+  }
+  .card-body {
+    text-align: center;
+  }
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .card-text {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+  }
+  .border-success {
+    border-width: 2px !important;
+  }
+  
+  /* Botones */
+  .btn-primary {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+  }
+  .btn-outline-light {
+    color: #fff;
+    border-color: #fff;
+  }
+  
+  /* Formulario */
+  form .form-label {
+    font-weight: 500;
+  }
+  form .form-control {
+    border-radius: 0.25rem;
+  }
+  
+  /* Social icons */
+  .social-icon {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+    transition: transform 0.3s ease;
+  }
+  .social-icon:hover {
+    transform: scale(1.2);
+  }
+  
+  /* Espaciados */
+  .p-5 {
+    padding: 3rem !important;
+  }
+  .mt-5 {
+    margin-top: 3rem !important;
+  }
+  .mb-5 {
+    margin-bottom: 3rem !important;
+  }
